@@ -2,10 +2,9 @@
 //  NetWorking.m
 //  NetWorking
 //
-//  Created by qianfeng on 15/7/3.
+//  Created by ycp on 15/7/3.
 //  Copyright (c) 2015年 yangxin. All rights reserved.
 //
-//@"http://1000phone.net:8088/app/iAppFree/api/limited.php?page=1&number=20"
 #import "NetWorking.h"
 
 @interface HttpRequest : NSObject <NSURLConnectionDelegate, NSURLConnectionDataDelegate>
